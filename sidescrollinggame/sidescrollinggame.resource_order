@@ -18,7 +18,13 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite4","order":4,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"TileSet1","order":6,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"TileSet3","order":8,"path":"tilesets/TileSet3/TileSet3.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"TileSet4","order":9,"path":"tilesets/TileSet4/TileSet4.yy",},
+    {"name":"TileSet2","order":7,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],
 }
